@@ -84,12 +84,6 @@ g++ word_search_game.cpp imp.cpp -o WordGame.exe
 
 ---
 
-## Screenshots
-
-
-
----
-
 ## Developers
 
 | Name | Roll Number |
